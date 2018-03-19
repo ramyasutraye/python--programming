@@ -1,7 +1,10 @@
 a=raw_input()
-if(a==0):
- print("Zero")
-elif(a>0):
- print("Positive")
+if a.isdigit():
+ if(a==0):
+  print("Zero")
+ elif(a>0):
+  print("Positive")
+ else:
+  print("Negative")
 else:
- print("Negative")
+ print("Enter a valid digit")
