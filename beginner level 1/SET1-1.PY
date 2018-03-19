@@ -4,7 +4,7 @@ if a.isdigit():
   print("Zero")
  elif(a>0):
   print("Positive")
- elif:
+ else:
   print("Negative")
 else:
- print("Enter a valid digit")
+  print("Enter a valid digit")
