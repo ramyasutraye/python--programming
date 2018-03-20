@@ -1,7 +1,7 @@
-x,y=raw_input().split()
-if x.isdigit() and y.isdigit():
-	x=int(x)
-	y=int(y)
-	print(x**y)
+i,n=raw_input().split()
+if i.isdigit() and n.isdigit():
+	i=int(i)
+	n=int(n)
+	print(i**n)
 else:
 	print("Invalid")
