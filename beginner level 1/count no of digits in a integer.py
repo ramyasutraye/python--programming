@@ -1,3 +1,3 @@
-a=raw_input()
-l=len(a)
+num=raw_input()
+l=len(num)
 print(l)
