@@ -1,7 +1,7 @@
-s,t=raw_input().split()
-s=int(s)
-t=int(t)
-temp=s
-s=t
-t=temp
-print s,t
+u,v=raw_input().split()
+u=int(u)
+v=int(v)
+temp=u
+u=v
+v=temp
+print u,v
