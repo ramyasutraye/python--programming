@@ -1,7 +1,6 @@
-n=raw_input()
-l,r=raw_input().split()
-a=0
-if n>=l and n<=r:
+N=raw_input()
+L,R=raw_input().split()
+if N>=L and N<=R:
 	print "yes"
 else:
 	print "no"
