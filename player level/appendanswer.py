@@ -1,4 +1,4 @@
 s=raw_input()
-ans="answer"
-a=s +" " +"answer"
+ans="Answer"
+a=s +" " +"Answer"
 print a
